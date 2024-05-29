@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @dvlyon-volvo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=dvlyon-volvo&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!---
-dvlyon-volvo/dvlyon-volvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Cheers! 🥂
+
+## Work account!
+# Personal Profile [@dvlyon](https://github.com/dvlyon)
+
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about: Arsenal FC, Star Wars, Harry Potter, LOTR, WoW, React, Physics!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love videogames!
